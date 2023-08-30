@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'UCSD SPIS 2023
+    return 'UCSD SPIS 2023'
